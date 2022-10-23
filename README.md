@@ -34,3 +34,6 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/5qogondw4mqjdr22/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ahj-3-1/branch/main)
+
+https://nikitakurys.github.io/AHJ-3.1/
